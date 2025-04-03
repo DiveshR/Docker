@@ -38,4 +38,14 @@ docker -v
 Below is a ```screenshot``` of Docker Desktop, which displays the number of ```containers``` and ```images``` you have created.
 <img width="1280" alt="Screenshot 2025-04-04 at 12 04 14 AM" src="https://github.com/user-attachments/assets/6dcb3d7f-c055-4647-966d-0b6000d74864" />
 
+Whenever you run Docker, it will list all available Docker commands that you can use.
+```
+docker
+```
+
+
+
+
+
+
 

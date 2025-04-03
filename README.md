@@ -35,5 +35,7 @@ docker -v
 ```
 <img width="1280" alt="Screenshot 2025-04-04 at 12 01 46 AM" src="https://github.com/user-attachments/assets/ca268b81-7de7-48ad-b790-0daf2f83c253" />
 
+Below is a ```screenshot``` of Docker Desktop, which displays the number of ```containers``` and ```images``` you have created.
+<img width="1280" alt="Screenshot 2025-04-04 at 12 04 14 AM" src="https://github.com/user-attachments/assets/6dcb3d7f-c055-4647-966d-0b6000d74864" />
 
 
